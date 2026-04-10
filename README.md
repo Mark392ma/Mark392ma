@@ -27,7 +27,7 @@ I work on Front-end development and web designing when I am Bored while focusing
 
 ### 📚 Languages & tools I Have placed My Hands On
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm,c,sublime,arch,python,js,flask,dotnet,cpp,cloudflare,vim,debian,nodejs,react,powershell&perline=9" />
 </p>
 
